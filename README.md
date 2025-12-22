@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Hello, my name is Pedro, and i am a python student</h2>
+<h2 align="left">Seja bem vindo ao meu GitHub !</h2>
 
 ###
 
