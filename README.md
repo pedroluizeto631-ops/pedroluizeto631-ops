@@ -8,15 +8,27 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=PEDRO%20LUIZETO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h2 align="left">MEUS MELHORES PROJETOS 🚀</h2>
 
 <div align="left">
   <a href="https://github.com/pedroluizeto631-ops/SISTEMA-BANCARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Sistema%20Bancario-Python-blue?style=for-the-badge&logo=python" alt="Sistema Bancário" />
+    <img src="https://img.shields.io/badge/SISTEMA%20BANCARIO-Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
   </a>
+
   <br><br>
+
   <a href="https://github.com/pedroluizeto631-ops/sistema-de-login-em-janelas" target="_blank">
-    <img src="https://img.shields.io/badge/Sistema%20de%20Login-Python-red?style=for-the-badge&logo=python" alt="Sistema de Login" />
+    <img src="https://img.shields.io/badge/SISTEMA%20DE%20LOGIN-Python-blue?style=for-the-badge&logo=python"/>
   </a>
 </div>
 
