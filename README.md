@@ -16,18 +16,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=PEDRO%20LUIZETO&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
-###
-
-
-
-  <br><br>
-
-  <a href="https://github.com/pedroluizeto631-ops/sistema-de-login-em-janelas" target="_blank">
-    <img src="https://img.shields.io/badge/SISTEMA%20DE%20LOGIN-Python-blue?style=for-the-badge&logo=python"/>
-  </a>
-</div>
-
-###
 
 <h2 align="left">ENTRE EM CONTATO COMIGO ! 👇</h2>
 
