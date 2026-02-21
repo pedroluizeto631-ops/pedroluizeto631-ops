@@ -1,4 +1,4 @@
-<h1 align="left">GIT HUB DE UM ESTUDANTE DE PYTHON 🐍</h1>
+<h1 align="left">Seja Bem Vindo Ao Meu Git Hub</h1>
 
 ###
 
@@ -18,12 +18,7 @@
 
 ###
 
-<h2 align="left">MEUS MELHORES PROJETOS 🚀</h2>
 
-<div align="left">
-  <a href="https://github.com/pedroluizeto631-ops/SISTEMA-BANCARIO" target="_blank">
-    <img src="https://img.shields.io/badge/SISTEMA%20BANCARIO-Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-  </a>
 
   <br><br>
 
