@@ -1,10 +1,20 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+<h1 align="center">WELCOME TO MY GITHUB</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pedroluizeto631-ops.pedroluizeto631-ops&"  />
 </div>
 
 ###
 
-<h1 align="center">WELCOME TO MY GITHUB</h1>
+<div align="center">
+  <img height="428" src="https://i.pinimg.com/1200x/3c/3a/40/3c3a40fb74ecbfafdf892204080b3a29.jpg"  />
+</div>
+
+###
+
+<h1 align="center">📞CONTACT:</h1>
 
 ###
 
@@ -19,22 +29,26 @@
 
 ###
 
-<h2 align="center">SOBRE MIM:</h2>
+<h1 align="center">🧑‍💻SOBRE MIM / ABOUT ME:</h1>
 
 ###
 
-<p align="left">Meu nome é Pedro, e sou um estudante e entusiasta de programação, tudo começou com um convite e <br>hoje estou desenvolvendo meus próprios sistemas e desenvolvendo minhas habilidades, tenho como objetivo trabalhar e viver so de programação.</p>
+<p align="left">Meu nome é Pedro, e sou um estudante e entusiasta de programação, tudo começou com um convite e <br>hoje estou desenvolvendo meus próprios sistemas e desenvolvendo minhas habilidades, tenho como objetivo trabalhar e viver so de programação. Atualmente estou cursando o ensino médio em uma escola técnica, na qual escolhi o curso de informática.</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">LINGUAGENS E FERRAMENTAS / LANGUAGENS AND TOOLS:</h2>
+<h2 align="center">🛠️LINGUAGENS E FERRAMENTAS / LANGUAGENS AND TOOLS:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -51,32 +65,22 @@
 
 ###
 
-<h2 align="center">BESTS PROJECTS:</h2>
+<p align="left"></p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h2 align="center">🚩SPECIALTIES:</h2>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pedroluizeto631-ops/pedroluizeto631-ops/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/pedroluizeto631-ops/pedroluizeto631-ops/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/pedroluizeto631-ops/pedroluizeto631-ops/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">==> BOTS<br><br>==> DESKTOP APPS<br><br>==> AUTOMATION<br><br>==> SOLVE PROBLEMS</p>
 
 ###
 
-<h2 align="center">SPECIALTIES:</h2>
+<p align="left"></p>
 
 ###
 
-<p align="left">==> BOTS<br><br>==> DESKTOP APPS<br><br>==> AUTOMATION<br><br>==> SOLVE PROBLEMS</p>
-
-###
-
-<br clear="both">
-
-<img align="left" height="277" src="https://i.pinimg.com/736x/d8/8c/76/d88c765c01bd6061baff1a2de4d7aae2.jpg"  />
+<h1 align="center">💻MEUS MELHORES PROJETO / MY BESTS PROJECTS:</h1>
 
 ###
