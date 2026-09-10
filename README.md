@@ -1,52 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:071a24,100:00e5ff&text=PEDRO%20LUIZETO&fontColor=00e5ff&fontSize=46&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20PYTHON%20%7C%20CONTINUOUS%20LEARNING&descAlignY=63&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:050505,50:071a24,100:00e5ff&text=PEDRO%20LUIZETO&fontColor=00e5ff&fontSize=46&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20AUTOMATION%20%7C%20WEB%20%7C%20BACKEND&descAlignY=63&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=SYSTEM+INITIALIZED...;WELCOME+TO+MY+DEVELOPER+PROFILE;PYTHON+DEVELOPER+IN+PROGRESS;BUILDING+REAL+PROJECTS;LEARNING.+BUILDING.+EVOLVING.;%3E_+ACCESS+GRANTED"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=SYSTEM+INITIALIZED...;PYTHON+DEVELOPER+IN+PROGRESS;BUILDING+PRACTICAL+SOFTWARE;AUTOMATION+%7C+WEB+%7C+BACKEND;LEARN.+BUILD.+DEBUG.+IMPROVE.;%3E_+ACCESS+GRANTED"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FOCUS-Software%20Development-00e5ff?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/MAIN%20LANGUAGE-Python-00e5ff?style=for-the-badge&labelColor=050505"/> <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00e5ff?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-Software%20Development-00e5ff?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MAIN%20LANGUAGE-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20LEARNING-00e5ff?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
-> 01 // PROFILE
+---
+
+# `01 // ABOUT ME`
+
+## Pedro Luizeto
+
+**Python Developer focused on automation, web and backend development.**
+
+I'm building practical software projects while strengthening my foundations in programming, problem solving and software development.
+
+My GitHub documents my progression through real projects, experiments, studies and increasingly complex systems.
+
+I'm interested in turning ideas and real-world problems into functional software.
+
+### What I build
+
+* Python applications
+* Automation tools
+* Desktop applications
+* Web projects
+* Management systems
+* Developer tools
+* Learning and productivity systems
+
+---
+
+# `02 // CURRENT FOCUS`
+
+```text
 ╔════════════════════════════════════════════════════════════╗
-║                    DEVELOPER PROFILE                      ║
+║                    CURRENT MISSION                         ║
 ╠════════════════════════════════════════════════════════════╣
-║ Name       : Pedro Luizeto                                ║
-║ Role       : Python Student / Developer                   ║
-║ Focus      : Software Development                         ║
-║ Experience : Personal & Academic Projects                 ║
-║ Main Stack : Python                                       ║
-║ Environment: GitHub / VS Code / PyCharm                   ║
-║ Mindset    : Learn → Build → Debug → Improve              ║
+║                                                            ║
+║  Strengthen Python fundamentals                            ║
+║  Improve programming logic                                 ║
+║  Build practical software                                  ║
+║  Improve code organization                                 ║
+║  Learn backend development                                 ║
+║  Explore web technologies                                  ║
+║  Learn databases and APIs                                  ║
+║  Expand knowledge of other programming languages           ║
+║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-👨‍💻 About Me
+```
 
-I'm a Python-focused developer in continuous development, interested in software development, programming logic and building practical systems.
+### Professional Goal
 
-I use my GitHub as a development laboratory where I document my studies, projects, experiments and progression as a programmer.
+Build a strong software development foundation, create increasingly professional projects and prepare for an international software engineering career.
 
-My current focus is to strengthen my fundamentals while gradually expanding into other areas of software development.
+---
 
-🎯 Professional Direction
-🐍 Deepen my Python knowledge
-🧠 Improve programming logic and problem solving
-🏗️ Build increasingly complex software
-🔧 Improve code organization and architecture
-🌐 Explore web and backend development
-🗄️ Learn databases and APIs
-💻 Expand into other programming languages
-🚀 Prepare for professional software development
-> 02 // TECHNOLOGY STACK
-🟢 Main Technology
+# `03 // TECHNOLOGIES`
+
+## Primary
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" height="65"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
 
 <br><br>
 
@@ -54,9 +79,11 @@ My current focus is to strengthen my fundamentals while gradually expanding into
 
 </div>
 
-Python is currently my primary programming language, used across my studies and projects.
+Python is currently my main programming language and the foundation of most of my projects.
 
-🌐 Web Technologies
+---
+
+## Web
 
 <div align="center">
 
@@ -64,11 +91,11 @@ Python is currently my primary programming language, used across my studies and 
 
 </div>
 
-Current focus:
+`HTML` • `CSS` • `JavaScript`
 
-HTML • CSS • JavaScript
+---
 
-🧩 Other Languages I'm Learning
+## Other Languages
 
 <div align="center">
 
@@ -76,13 +103,16 @@ HTML • CSS • JavaScript
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-Exploring-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-Exploring-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 
 </div>
 
-These technologies are part of my learning path, not claims of professional mastery.
+Java and C# are currently part of my learning path.
 
-> 03 // DEVELOPMENT TOOLS
+---
+
+## Tools
 
 <div align="center">
 
@@ -90,171 +120,240 @@ These technologies are part of my learning path, not claims of professional mast
 
 </div>
 
-🛠️ Tools & Workflow
-Git
-GitHub
-Visual Studio Code
-PyCharm
-GitHub repositories
-Version control
-Project documentation
-> 04 // TECHNICAL KNOWLEDGE
-PROGRAMMING
-├── Python
-│   ├── Variables
-│   ├── Conditions
-│   ├── Loops
-│   ├── Functions
-│   ├── Error Handling
-│   └── Project Development
-│
-├── Programming Logic
-│   ├── Problem Solving
-│   ├── Algorithms
-│   └── Computational Thinking
-│
-├── Software Development
-│   ├── Project Organization
-│   ├── Debugging
-│   └── Continuous Improvement
-│
-└── Web
-    ├── HTML
-    ├── CSS
-    └── JavaScript — Learning
-> 05 // PROJECTS
-🚀 Featured Projects
+`Git` • `GitHub` • `VS Code` • `PyCharm`
 
-These projects represent my practical development journey.
+---
 
-📡 gerador-de-codigos-qr
+# `04 // TECHNICAL AREAS`
 
-Technology: SVG
+| Area                 | Technologies / Knowledge                      |
+| :------------------- | :-------------------------------------------- |
+| Programming          | Python                                        |
+| Programming Logic    | Conditions, loops, functions, problem solving |
+| Desktop Applications | Python / Tkinter                              |
+| Web                  | HTML / CSS / JavaScript                       |
+| Automation           | Python-based tools and scripts                |
+| Version Control      | Git / GitHub                                  |
+| Databases            | Learning                                      |
+| APIs                 | Learning                                      |
+| Backend              | Learning                                      |
+| Java                 | Learning                                      |
+| C#                   | Exploring                                     |
+
+---
+
+# `05 // FEATURED PROJECTS`
+
+## GESTAO-PRO
+
+### Business Management System
+
+**Python**
+
+A management system designed to assist Human Resources and company employees.
+
+### Objective
+
+Create a practical system capable of organizing employee-related information and management processes.
+
+### Development Focus
+
+* Employee management
+* Organization of company information
+* Management-oriented features
+* User interaction
+* Application logic
+* Graphical interface
+
+### Planned Evolution
+
+```text
+[ ] Database
+[ ] Authentication
+[ ] User permissions
+[ ] Reports
+[ ] Data persistence
+[ ] Interface improvements
+[ ] Additional management features
+```
+
+**Repository:**
+https://github.com/pedroluizeto631-ops/GESTAO-PRO
+
+---
+
+# `06 // DEVSTUDYTRACKER`
+
+## DevStudyTracker
+
+**Python**
+
+A project focused on organizing and tracking programming studies.
+
+### Objective
+
+Create a practical system to organize the learning process and make study progress easier to track.
+
+### Project Focus
+
+* Study organization
+* Progress tracking
+* Programming practice
+* Development workflow
+
+**Repository:**
+https://github.com/pedroluizeto631-ops/DevStudyTracker
+
+---
+
+# `07 // QR GENERATOR`
+
+## gerador-de-codigos-qr
+
+**SVG**
 
 A project focused on generating QR codes using SVG.
 
-🔗 Repository:
+### Objective
+
+Transform information into a visual QR code that can be used in different applications.
+
+### Focus
+
+* SVG
+* Generation logic
+* Visual output
+* Practical utility
+
+**Repository:**
 https://github.com/pedroluizeto631-ops/gerador-de-codigos-qr
 
-🐍 Estudos-python
+---
 
-Technology: Python
+# `08 // SCHOOL MANAGEMENT`
 
-My main study repository containing:
+## school-management
 
-📚 Language studies
-🧪 Programming exercises
-🛠️ Learning projects
-🎓 Classes
-📜 Certificates
-🧠 Programming practice
+**Python**
 
-🔗 Repository:
-https://github.com/pedroluizeto631-ops/Estudos-python
+A project focused on school management.
 
-🏢 GESTAO-PRO
+It represents my progression toward creating systems that solve practical organizational problems rather than only isolated programming exercises.
 
-Technology: Python
-
-A management system created to assist the Human Resources sector and company employees.
-
-The project represents my progression from smaller exercises toward larger software systems.
-
-🔗 Repository:
-https://github.com/pedroluizeto631-ops/GESTAO-PRO
-
-📚 DevStudyTracker
-
-Technology: Python
-
-A project focused on organizing and tracking the programming learning process.
-
-The idea is to turn studying into something structured and measurable.
-
-🔗 Repository:
-https://github.com/pedroluizeto631-ops/DevStudyTracker
-
-🎓 school-management
-
-Technology: Python
-
-A project focused on school management, developed as part of my programming journey.
-
-🔗 Repository:
+**Repository:**
 https://github.com/pedroluizeto631-ops/school-management
 
-👤 pedroluizeto631-ops
+---
 
-Type: GitHub Profile Repository
+# `09 // LEARNING LAB`
 
-Repository responsible for this profile README and its visual developer interface.
+## Estudos-python
 
-🔗 Repository:
-https://github.com/pedroluizeto631-ops/pedroluizeto631-ops
+**Python**
 
-> 06 // DEVELOPMENT ROADMAP
+My main Python learning repository.
+
+It contains:
+
+* Language studies
+* Programming exercises
+* Learning projects
+* Classes
+* Certificates
+* Programming practice
+
+This repository documents the learning process behind my development projects.
+
+**Repository:**
+https://github.com/pedroluizeto631-ops/Estudos-python
+
+---
+
+# `10 // PROJECT EVOLUTION`
+
+```text
+LEARNING
+   |
+   v
+SMALL PROJECTS
+   |
+   v
+PRACTICAL APPLICATIONS
+   |
+   v
+MANAGEMENT SYSTEMS
+   |
+   v
+MORE COMPLEX SOFTWARE
+   |
+   v
+PROFESSIONAL DEVELOPMENT
+```
+
+My objective is not to create dozens of projects.
+
+My objective is to make each project demonstrate something new.
+
+**Better projects. Better code. Better understanding.**
+
+---
+
+# `11 // DEVELOPMENT ROADMAP`
+
+```text
 ╔════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT ROADMAP                    ║
+║                  DEVELOPMENT ROADMAP                      ║
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║  PYTHON FUNDAMENTALS          ██████████░░  ACTIVE         ║
-║  PROGRAMMING LOGIC            █████████░░░  ACTIVE         ║
-║  GIT & GITHUB                 ████████░░░░  ACTIVE         ║
+║  Python Fundamentals          ██████████░░  ACTIVE         ║
+║  Programming Logic            █████████░░░  ACTIVE         ║
+║  Git & GitHub                 ████████░░░░  ACTIVE         ║
 ║  HTML / CSS                   ███████░░░░░  LEARNING       ║
-║  JAVASCRIPT                   ████░░░░░░░░  LEARNING       ║
-║  OBJECT-ORIENTED PROGRAMMING  ████░░░░░░░░  NEXT           ║
-║  FILE MANIPULATION             ███░░░░░░░░░  NEXT           ║
-║  DATABASES                    ██░░░░░░░░░░  NEXT           ║
+║  JavaScript                   ████░░░░░░░░  LEARNING       ║
+║  Object-Oriented Programming  ████░░░░░░░░  NEXT           ║
+║  File Handling                ███░░░░░░░░░  NEXT           ║
+║  Databases                    ██░░░░░░░░░░  NEXT           ║
 ║  APIs                         ██░░░░░░░░░░  NEXT           ║
-║  BACKEND DEVELOPMENT          ██░░░░░░░░░░  FUTURE         ║
-║  JAVA                         ██░░░░░░░░░░  EXPLORING      ║
+║  Backend Development          ██░░░░░░░░░░  NEXT           ║
+║  Java                         ██░░░░░░░░░░  EXPLORING      ║
 ║  C#                           ██░░░░░░░░░░  EXPLORING      ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
-> 07 // CURRENTLY LEARNING
+```
 
-<div align="center">
+---
 
-🧠 Core Development
+# `12 // DEVELOPMENT APPROACH`
 
-<img src="https://img.shields.io/badge/Programming%20Logic-Active-00e5ff?style=flat-square"/> <img src="https://img.shields.io/badge/Python-Active-00e5ff?style=flat-square"/> <img src="https://img.shields.io/badge/Git%20%26%20GitHub-Active-00e5ff?style=flat-square"/>
-
-🌐 Web
-
-<img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-Learning-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-💻 Programming Languages
-
-<img src="https://img.shields.io/badge/Java-Exploring-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-Exploring-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-
-</div>
-
-> 08 // WHAT I BUILD
-┌─────────────────────────────────────────────────────────────┐
-│                    DEVELOPMENT MINDSET                      │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  LEARN                                                     │
-│    ↓                                                        │
-│  UNDERSTAND                                                 │
-│    ↓                                                        │
-│  BUILD                                                      │
-│    ↓                                                        │
-│  TEST                                                       │
-│    ↓                                                        │
-│  DEBUG                                                      │
-│    ↓                                                        │
-│  IMPROVE                                                    │
-│    ↓                                                        │
-│  REPEAT                                                     │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+```text
+UNDERSTAND
+    |
+    v
+PLAN
+    |
+    v
+BUILD
+    |
+    v
+TEST
+    |
+    v
+DEBUG
+    |
+    v
+IMPROVE
+    |
+    v
+REPEAT
+```
 
 I don't want to simply memorize programming syntax.
 
 I want to understand why the code works, how systems are structured and how to solve problems independently.
 
-> 09 // GITHUB ANALYTICS
+---
+
+# `13 // GITHUB STATISTICS`
 
 <div align="center">
 
@@ -272,7 +371,9 @@ I want to understand why the code works, how systems are structured and how to s
 
 </div>
 
-> 10 // CONTRIBUTION STREAK
+---
+
+# `14 // CONTRIBUTION STREAK`
 
 <div align="center">
 
@@ -280,7 +381,9 @@ I want to understand why the code works, how systems are structured and how to s
 
 </div>
 
-> 11 // ACTIVITY
+---
+
+# `15 // ACTIVITY`
 
 <div align="center">
 
@@ -288,97 +391,67 @@ I want to understand why the code works, how systems are structured and how to s
 
 </div>
 
-> 12 // ACHIEVEMENTS
+---
 
-<div align="center">
+# `15 // CERTIFICATIONS`
 
-<img src="https://github-profile-trophy.vercel.app/?username=pedroluizeto631-ops&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+```text
+[✓] Python                   — Santander Open Academy — CONCLUÍDO
 
-</div>
+---
 
-> 13 // FUTURE PROTOCOLS
-NEXT TECHNOLOGIES
 
-[ ] Object-Oriented Programming
-[ ] Advanced Python
-[ ] File Manipulation
-[ ] SQL / Databases
-[ ] REST APIs
-[ ] Backend Development
-[ ] JavaScript
-[ ] Java
-[ ] C#
-[ ] Software Architecture
-[ ] Larger Production Projects
+---
 
-The objective is not to collect programming languages.
+# `17 // CAREER OBJECTIVE`
 
-The objective is to become a better software developer.
+I'm building my technical foundation through consistent learning and practical projects.
 
-> 14 // DEVELOPER VALUES
+My long-term objective is to grow into a professional software developer capable of contributing to real-world products and working in an international engineering environment.
 
-<div align="center">
+```text
+CURRENT
+   |
+   v
+PYTHON + PROGRAMMING LOGIC
+   |
+   v
+BACKEND + DATABASES + APIs
+   |
+   v
+SOFTWARE ENGINEERING
+   |
+   v
+PROFESSIONAL DEVELOPMENT
+   |
+   v
+INTERNATIONAL CAREER
+```
 
-Principle	Meaning
-🧠 Learning	Always improving technical knowledge
-🛠️ Building	Turning knowledge into projects
-🔍 Problem Solving	Understanding problems before coding
-🐛 Debugging	Learning from errors
-📚 Consistency	Progress through continuous practice
-🚀 Growth	Increasing project complexity over time
+---
 
-</div>
-
-> 15 // TERMINAL
-$ whoami
-
-Pedro Luizeto
-
-$ current_focus
-
-Python + Software Development
-
-$ current_status
-
-Learning / Building / Improving
-
-$ next_mission
-
-Improve fundamentals
-Build better systems
-Learn new technologies
-Become a professional developer
-
-$ exit
-
-> connection terminated...
-> system remains online.
-> 16 // CONNECT
+# `18 // CONTACT`
 
 <div align="center">
 
 <a href="https://github.com/pedroluizeto631-ops">
-
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<!-- Add LinkedIn -->
 
-> 17 // CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pedroluizeto631-ops/pedroluizeto631-ops/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
+<!-- Add personal website -->
 
 </div>
+
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00e5ff,50:071a24,100:050505&section=footer" width="100%"/>
 
-SYSTEM ONLINE // KEEP BUILDING ⚡
+### `SYSTEM ONLINE // KEEP BUILDING`
 
-<sub>Designed with Markdown, HTML, SVG and GitHub-compatible resources.</sub>
+<sub>Building software. Learning every day. Improving continuously.</sub>
 
 </div>
